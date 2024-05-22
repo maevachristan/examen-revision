@@ -5,6 +5,9 @@
 @import "modules/vertical-boxes";
 @import "modules/stretch-boxes";
 @import "modules/selectors-text";
+@import "modules/card";
+@import "modules/social";
+@import "modules/navigation";
 
 .row + .row {
     margin-top: 16px;
