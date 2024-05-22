@@ -1,8 +1,9 @@
 @import "base";
 @import "layout";
-@import "modules/example";
 @import "bootstrap/scss/bootstrap-grid";
-
+@import "modules/horizontal-boxes";
+@import "modules/vertical-boxes";
+@import "modules/stretch-boxes";
 
 .row + .row {
     margin-top: 16px;

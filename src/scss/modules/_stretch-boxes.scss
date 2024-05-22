@@ -1,0 +1,9 @@
+.stretch-boxes {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+
+.box-child {
+    width: 25%;
+}
